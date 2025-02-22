@@ -7,6 +7,7 @@
   "alwaysLimit": "Always Quote チャンネル",
   "addGifs": "GIF画像をQuoteに追加",
   "savePersonalQuotes": "自分のQuoteを保存",
+  "quoteLimits": "{{limit}} Quotes",
   "saveQuotes": "Quoteの共有と保存",
   "unifyQuotes": "まとめてQuote",
   "customThemes": "カスタムQuoteテーマ",
